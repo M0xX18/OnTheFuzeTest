@@ -11,33 +11,32 @@ Este test consiste en realizar una integración con la API de HubSpot. Incluye f
 ## Instalacion y Configuracion
 
 1. Clonar repositorio
-
-´´´ bash
+```BASH
 git clone https://github.com/M0xX18/OnTheFuzeTest.git
 cd OnTheFuzeTest
-´´´
+```
 
 2. Crear archivo **.env** con tokens de HubSpot
 
-´´´
+```
 SOURCE_HUBSPOT_TOKEN=pat-na1-...
 MIRROR_HUBSPOT_TOKEN=pat-na1-...
 PORT=3000
-´´´
+```
 
 ## Migración
 
 1. Obtener datos desde la API pública
 
-´´´bash
+```BASH
 node src/Migracion/rickymorty.js
-´´´
+```
 
 2. Migrar a HubSpot usando el token de origen **SOURCE_HUBSPOT_TOKEN**
 
-´´´bash
+```BASH
 node src/Migracion/migrateToHubspot.js
-´´´
+```
 
 ## Integración
 
@@ -45,9 +44,9 @@ node src/Migracion/migrateToHubspot.js
 
 Se puede ejecutar el servidor para tener los endpoints localmente con:
 
-´´´bash
+```BASH
 node src/Integracion/server.js
-´´´
+```
 
 Esto levantará el servidor en el puerto 3000 o en el definido por el archivo **.env**
 
