@@ -1,0 +1,2039 @@
+{
+  "contacts": [
+    {
+      "character_id": 1,
+      "firstname": "Rick",
+      "lastname": "Sanchez",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 2,
+      "firstname": "Morty",
+      "lastname": "Smith",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 3,
+      "firstname": "Summer",
+      "lastname": "Smith",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 5,
+      "firstname": "Jerry",
+      "lastname": "Smith",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 7,
+      "firstname": "Abradolf",
+      "lastname": "Lincler",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 11,
+      "firstname": "Albert",
+      "lastname": "Einstein",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 13,
+      "firstname": "Alien",
+      "lastname": "Googah",
+      "status_character": "unknown",
+      "character_species": "Alien",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 17,
+      "firstname": "Annie",
+      "lastname": "Annie",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 19,
+      "firstname": "Antenna",
+      "lastname": "Rick",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 23,
+      "firstname": "Arcade",
+      "lastname": "Alien",
+      "status_character": "unknown",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 29,
+      "firstname": "Baby",
+      "lastname": "Legs",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 31,
+      "firstname": "Baby",
+      "lastname": "Wizard",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 37,
+      "firstname": "Beth",
+      "lastname": "Sanchez",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 41,
+      "firstname": "Big",
+      "lastname": "Boobed Waitress",
+      "status_character": "Alive",
+      "character_species": "Mythological Creature",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 43,
+      "firstname": "Big",
+      "lastname": "Morty",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 47,
+      "firstname": "Birdperson",
+      "lastname": "Birdperson",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 53,
+      "firstname": "Blue",
+      "lastname": "Shirt Morty",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 59,
+      "firstname": "Brad",
+      "lastname": "Anderson",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 61,
+      "firstname": "Campaign",
+      "lastname": "Manager Morty",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 67,
+      "firstname": "Collector",
+      "lastname": "Collector",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 71,
+      "firstname": "Conroy",
+      "lastname": "Conroy",
+      "status_character": "Dead",
+      "character_species": "Robot",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 73,
+      "firstname": "Cop",
+      "lastname": "Morty",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 79,
+      "firstname": "Crab",
+      "lastname": "Spider",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 83,
+      "firstname": "Cronenberg",
+      "lastname": "Morty",
+      "status_character": "unknown",
+      "character_species": "Cronenberg",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 89,
+      "firstname": "Dale",
+      "lastname": "Dale",
+      "status_character": "Dead",
+      "character_species": "Mythological Creature",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 97,
+      "firstname": "Gonorrhea",
+      "lastname": "Gonorrhea",
+      "status_character": "Dead",
+      "character_species": "Disease",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 101,
+      "firstname": "E.",
+      "lastname": "Coli",
+      "status_character": "Dead",
+      "character_species": "Disease",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 103,
+      "firstname": "Doofus",
+      "lastname": "Rick",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 107,
+      "firstname": "Dr.",
+      "lastname": "Wong",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 109,
+      "firstname": "Duck",
+      "lastname": "With Muscles",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 113,
+      "firstname": "Eric",
+      "lastname": "Stoltz Mask Morty",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 127,
+      "firstname": "Frank",
+      "lastname": "Palicky",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 131,
+      "firstname": "Gar",
+      "lastname": "Gloonch",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 137,
+      "firstname": "Gene",
+      "lastname": "Gene",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 139,
+      "firstname": "General",
+      "lastname": "Store Owner",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 149,
+      "firstname": "Gordon",
+      "lastname": "Lunas",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 151,
+      "firstname": "Gwendolyn",
+      "lastname": "Gwendolyn",
+      "status_character": "unknown",
+      "character_species": "Robot",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 157,
+      "firstname": "Hole",
+      "lastname": "in the Wall Where the Men Can See it All",
+      "status_character": "unknown",
+      "character_species": "unknown",
+      "character_gender": "Genderless"
+    },
+    {
+      "character_id": 163,
+      "firstname": "Ideal",
+      "lastname": "Jerry",
+      "status_character": "Dead",
+      "character_species": "Mythological Creature",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 167,
+      "firstname": "Izzy",
+      "lastname": "Izzy",
+      "status_character": "Alive",
+      "character_species": "Animal",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 173,
+      "firstname": "Jan-Michael",
+      "lastname": "Vincent",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 179,
+      "firstname": "Jessica",
+      "lastname": "Jessica",
+      "status_character": "Alive",
+      "character_species": "Cronenberg",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 181,
+      "firstname": "Jessica's",
+      "lastname": "Friend",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 191,
+      "firstname": "Kevin",
+      "lastname": "Kevin",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 193,
+      "firstname": "King",
+      "lastname": "Jellybean",
+      "status_character": "Dead",
+      "character_species": "Mythological Creature",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 197,
+      "firstname": "Kyle",
+      "lastname": "Kyle",
+      "status_character": "Dead",
+      "character_species": "Humanoid",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 199,
+      "firstname": "Larva",
+      "lastname": "Alien",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 211,
+      "firstname": "Ma-Sha",
+      "lastname": "Ma-Sha",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 223,
+      "firstname": "Michael",
+      "lastname": "Jenkins",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 227,
+      "firstname": "Mitch",
+      "lastname": "Mitch",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 229,
+      "firstname": "Morty",
+      "lastname": "Mart Manager Morty",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 233,
+      "firstname": "Morty",
+      "lastname": "K-22",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 239,
+      "firstname": "Mr.",
+      "lastname": "Goldenfold",
+      "status_character": "Alive",
+      "character_species": "Cronenberg",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 241,
+      "firstname": "Mr.",
+      "lastname": "Marklovitz",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 251,
+      "firstname": "Nancy",
+      "lastname": "Nancy",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 257,
+      "firstname": "Paul",
+      "lastname": "Fleishman",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 263,
+      "firstname": "Pibbles",
+      "lastname": "Bodyguard",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 269,
+      "firstname": "Presidentress",
+      "lastname": "of The Mega Gargantuans",
+      "status_character": "Alive",
+      "character_species": "Humanoid",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 271,
+      "firstname": "Principal",
+      "lastname": "Vagina",
+      "status_character": "Alive",
+      "character_species": "Cronenberg",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 277,
+      "firstname": "Real",
+      "lastname": "Fake Doors Salesman",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 281,
+      "firstname": "Reverse",
+      "lastname": "Rick Outrage",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 283,
+      "firstname": "Rick",
+      "lastname": "D. Sanchez III",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 293,
+      "firstname": "Rick",
+      "lastname": "Sanchez",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 307,
+      "firstname": "Scroopy",
+      "lastname": "Noopers",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 311,
+      "firstname": "Shimshamian",
+      "lastname": "Shimshamian",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 313,
+      "firstname": "Shleemypants",
+      "lastname": "Shleemypants",
+      "status_character": "Alive",
+      "character_species": "unknown",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 317,
+      "firstname": "Shmlonathan",
+      "lastname": "Shmlower",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 331,
+      "firstname": "Squanchy",
+      "lastname": "Squanchy",
+      "status_character": "unknown",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 337,
+      "firstname": "Stu",
+      "lastname": "Stu",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 347,
+      "firstname": "President",
+      "lastname": "Curtis",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 349,
+      "firstname": "The",
+      "lastname": "Scientist Formerly Known as Rick",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 353,
+      "firstname": "Tiny",
+      "lastname": "Rick",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 359,
+      "firstname": "Tortured",
+      "lastname": "Morty",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 367,
+      "firstname": "Trunk",
+      "lastname": "Man",
+      "status_character": "Alive",
+      "character_species": "Humanoid",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 373,
+      "firstname": "Unmuscular",
+      "lastname": "Michael",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 379,
+      "firstname": "Wedding",
+      "lastname": "Bartender",
+      "status_character": "unknown",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 383,
+      "firstname": "Yaarb",
+      "lastname": "Yaarb",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 389,
+      "firstname": "Zeta",
+      "lastname": "Alpha Rick",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 397,
+      "firstname": "Fido",
+      "lastname": "Fido",
+      "status_character": "Alive",
+      "character_species": "Animal",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 401,
+      "firstname": "Morty",
+      "lastname": "Jr's interviewer",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 409,
+      "firstname": "Mr.",
+      "lastname": "Sneezy",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 419,
+      "firstname": "Plutonian",
+      "lastname": "Hostess",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 421,
+      "firstname": "Rich",
+      "lastname": "Plutonian",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 431,
+      "firstname": "Chair-homeless",
+      "lastname": "Chair-homeless",
+      "status_character": "Alive",
+      "character_species": "Humanoid",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 433,
+      "firstname": "Doopidoo",
+      "lastname": "Doopidoo",
+      "status_character": "Alive",
+      "character_species": "Animal",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 439,
+      "firstname": "Veterinary",
+      "lastname": "Veterinary",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 443,
+      "firstname": "Tank",
+      "lastname": "Top Jerry",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 449,
+      "firstname": "Roy's",
+      "lastname": "Mum",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 457,
+      "firstname": "Funny",
+      "lastname": "Songs Presenter",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 461,
+      "firstname": "Communication's",
+      "lastname": "Responsible Rick",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 463,
+      "firstname": "SEAL",
+      "lastname": "Team Rick",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 467,
+      "firstname": "Morphizer-XE",
+      "lastname": "Customer Support",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 479,
+      "firstname": "Private",
+      "lastname": "Sector Rick",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 487,
+      "firstname": "Visor",
+      "lastname": "Rick",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 491,
+      "firstname": "Dr.",
+      "lastname": "Eleanor Arroway",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 499,
+      "firstname": "Fascist",
+      "lastname": "Morty",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 503,
+      "firstname": "Fascist",
+      "lastname": "Shrimp Rick",
+      "status_character": "Alive",
+      "character_species": "Animal",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 509,
+      "firstname": "Bully",
+      "lastname": "Bully",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 521,
+      "firstname": "Wasp",
+      "lastname": "Beth",
+      "status_character": "Alive",
+      "character_species": "Animal",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 523,
+      "firstname": "Boglin",
+      "lastname": "Boglin",
+      "status_character": "unknown",
+      "character_species": "unknown",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 541,
+      "firstname": "Secretary",
+      "lastname": "at Tony's",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 547,
+      "firstname": "Glar",
+      "lastname": "Glar",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 557,
+      "firstname": "Ventriloquiver",
+      "lastname": "Ventriloquiver",
+      "status_character": "Alive",
+      "character_species": "Humanoid",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 563,
+      "firstname": "The",
+      "lastname": "Wizard",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 569,
+      "firstname": "Shadow",
+      "lastname": "Jacker",
+      "status_character": "Alive",
+      "character_species": "Mythological Creature",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 571,
+      "firstname": "Slippy",
+      "lastname": "Slippy",
+      "status_character": "Alive",
+      "character_species": "Animal",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 577,
+      "firstname": "Snake",
+      "lastname": "Terminator",
+      "status_character": "unknown",
+      "character_species": "Robot",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 587,
+      "firstname": "Cavesnake",
+      "lastname": "Cavesnake",
+      "status_character": "Dead",
+      "character_species": "Animal",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 593,
+      "firstname": "Tickets",
+      "lastname": "Please Guy",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 599,
+      "firstname": "Birdperson",
+      "lastname": "Birdperson",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 601,
+      "firstname": "Christmas",
+      "lastname": "Storyteller",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 607,
+      "firstname": "Hairspray",
+      "lastname": "Fan",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 613,
+      "firstname": "Mike",
+      "lastname": "Johnson",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 617,
+      "firstname": "Phoenixperson",
+      "lastname": "Phoenixperson",
+      "status_character": "Alive",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 619,
+      "firstname": "Professor",
+      "lastname": "Sanchez",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 631,
+      "firstname": "Rick",
+      "lastname": "Sanchez",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 641,
+      "firstname": "Bruce",
+      "lastname": "Bruce",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 643,
+      "firstname": "Council",
+      "lastname": "of Glorzos Member",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 647,
+      "firstname": "Troy",
+      "lastname": "Troy",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 653,
+      "firstname": "Plane",
+      "lastname": "Crash Survivor",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 659,
+      "firstname": "Morty’s",
+      "lastname": "Father-in-law",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 661,
+      "firstname": "Morty’s",
+      "lastname": "Girlfriend",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 673,
+      "firstname": "Hoovy",
+      "lastname": "Hoovy",
+      "status_character": "Dead",
+      "character_species": "Humanoid",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 677,
+      "firstname": "Japheth's",
+      "lastname": "Eldest Son",
+      "status_character": "Dead",
+      "character_species": "Humanoid",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 683,
+      "firstname": "Evolved",
+      "lastname": "Narnian",
+      "status_character": "Alive",
+      "character_species": "Humanoid",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 691,
+      "firstname": "Scarecrow",
+      "lastname": "Beth",
+      "status_character": "Dead",
+      "character_species": "Robot",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 701,
+      "firstname": "Metal",
+      "lastname": "Rick",
+      "status_character": "Dead",
+      "character_species": "Robot",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 709,
+      "firstname": "Dracula",
+      "lastname": "Dracula",
+      "status_character": "Alive",
+      "character_species": "Mythological Creature",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 719,
+      "firstname": "Diesel",
+      "lastname": "Weasel",
+      "status_character": "Alive",
+      "character_species": "Animal",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 727,
+      "firstname": "Professor",
+      "lastname": "Shabooboo",
+      "status_character": "Dead",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 733,
+      "firstname": "Kathy",
+      "lastname": "Ireland",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 739,
+      "firstname": "Cirque",
+      "lastname": "du Soleil Zumanity Member",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 743,
+      "firstname": "Alyson",
+      "lastname": "Hannigan",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Female"
+    },
+    {
+      "character_id": 751,
+      "firstname": "Changeformer",
+      "lastname": "Changeformer",
+      "status_character": "Dead",
+      "character_species": "Robot",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 757,
+      "firstname": "President's",
+      "lastname": "General",
+      "status_character": "Alive",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 761,
+      "firstname": "Turkey",
+      "lastname": "President Curtis",
+      "status_character": "Alive",
+      "character_species": "Animal",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 769,
+      "firstname": "Big",
+      "lastname": "Fat rick",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 773,
+      "firstname": "Yo-yo",
+      "lastname": "Rick",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 787,
+      "firstname": "Two",
+      "lastname": "Crows",
+      "status_character": "Alive",
+      "character_species": "Animal",
+      "character_gender": "unknown"
+    },
+    {
+      "character_id": 797,
+      "firstname": "Slartivartian",
+      "lastname": "Slartivartian",
+      "status_character": "Dead",
+      "character_species": "Alien",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 809,
+      "firstname": "Pussifer",
+      "lastname": "Pussifer",
+      "status_character": "Dead",
+      "character_species": "Animal",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 811,
+      "firstname": "Re-Build-a-Morty",
+      "lastname": "Morty",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Male"
+    },
+    {
+      "character_id": 821,
+      "firstname": "Gotron",
+      "lastname": "Gotron",
+      "status_character": "unknown",
+      "character_species": "Robot",
+      "character_gender": "Genderless"
+    },
+    {
+      "character_id": 823,
+      "firstname": "Young",
+      "lastname": "Beth",
+      "status_character": "unknown",
+      "character_species": "Human",
+      "character_gender": "Female"
+    }
+  ],
+  "companies": [
+    {
+      "location_id": 3,
+      "name": "Citadel of Ricks",
+      "location_type": "Space station",
+      "dimension": "unknown",
+      "creation_date": "2017-11-10T13:08:13.191Z"
+    },
+    {
+      "location_id": 20,
+      "name": "Earth (Replacement Dimension)",
+      "location_type": "Planet",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2017-11-18T19:33:01.173Z"
+    },
+    {
+      "location_id": 21,
+      "name": "Testicle Monster Dimension",
+      "location_type": "Dimension",
+      "dimension": "Testicle Monster Dimension",
+      "creation_date": "2017-11-18T19:41:01.605Z"
+    },
+    {
+      "location_id": 5,
+      "name": "Anatomy Park",
+      "location_type": "Microverse",
+      "dimension": "Dimension C-137",
+      "creation_date": "2017-11-10T13:08:46.060Z"
+    },
+    {
+      "location_id": 7,
+      "name": "Immortality Field Resort",
+      "location_type": "Resort",
+      "dimension": "unknown",
+      "creation_date": "2017-11-10T13:09:17.136Z"
+    },
+    {
+      "location_id": 6,
+      "name": "Interdimensional Cable",
+      "location_type": "TV",
+      "dimension": "unknown",
+      "creation_date": "2017-11-10T13:09:09.102Z"
+    },
+    {
+      "location_id": 23,
+      "name": "Earth (C-500A)",
+      "location_type": "Planet",
+      "dimension": "Dimension C-500A",
+      "creation_date": "2017-11-18T20:58:15.178Z"
+    },
+    {
+      "location_id": 48,
+      "name": "Fantasy World",
+      "location_type": "Planet",
+      "dimension": "Fantasy Dimension",
+      "creation_date": "2017-12-29T19:55:54.672Z"
+    },
+    {
+      "location_id": 35,
+      "name": "Planet Squanch",
+      "location_type": "Planet",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2017-12-26T17:51:53.018Z"
+    },
+    {
+      "location_id": 25,
+      "name": "The Menagerie",
+      "location_type": "Menagerie",
+      "dimension": "unknown",
+      "creation_date": "2017-11-30T11:13:46.697Z"
+    },
+    {
+      "location_id": 1,
+      "name": "Earth (C-137)",
+      "location_type": "Planet",
+      "dimension": "Dimension C-137",
+      "creation_date": "2017-11-10T12:42:04.162Z"
+    },
+    {
+      "location_id": 27,
+      "name": "Hideout Planet",
+      "location_type": "Planet",
+      "dimension": "unknown",
+      "creation_date": "2017-11-30T14:18:16.869Z"
+    },
+    {
+      "location_id": 14,
+      "name": "Giant's Town",
+      "location_type": "Fantasy town",
+      "dimension": "Fantasy Dimension",
+      "creation_date": "2017-11-18T11:31:15.248Z"
+    },
+    {
+      "location_id": 13,
+      "name": "Nuptia 4",
+      "location_type": "Planet",
+      "dimension": "unknown",
+      "creation_date": "2017-11-18T11:30:29.780Z"
+    },
+    {
+      "location_id": 9,
+      "name": "Purge Planet",
+      "location_type": "Planet",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2017-11-10T13:09:29.566Z"
+    },
+    {
+      "location_id": 46,
+      "name": "Zigerion's Base",
+      "location_type": "Space station",
+      "dimension": "Dimension C-137",
+      "creation_date": "2017-12-29T19:40:07.748Z"
+    },
+    {
+      "location_id": 50,
+      "name": "Kyle's Teenyverse",
+      "location_type": "Teenyverse",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2017-12-30T12:36:19.730Z"
+    },
+    {
+      "location_id": 40,
+      "name": "Gazorpazorp",
+      "location_type": "Planet",
+      "dimension": "unknown",
+      "creation_date": "2017-12-29T12:31:50.313Z"
+    },
+    {
+      "location_id": 44,
+      "name": "Jerryboree",
+      "location_type": "Daycare",
+      "dimension": "unknown",
+      "creation_date": "2017-12-29T17:50:19.947Z"
+    },
+    {
+      "location_id": 16,
+      "name": "St. Gloopy Noops Hospital",
+      "location_type": "Space station",
+      "dimension": "unknown",
+      "creation_date": "2017-11-18T11:43:20.075Z"
+    },
+    {
+      "location_id": 56,
+      "name": "Mega Gargantuan Kingdom",
+      "location_type": "Microverse",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2017-12-31T14:01:44.921Z"
+    },
+    {
+      "location_id": 47,
+      "name": "Pluto",
+      "location_type": "Dwarf planet (Celestial Dwarf)",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2017-12-29T19:49:29.228Z"
+    },
+    {
+      "location_id": 78,
+      "name": "Snake Planet",
+      "location_type": "Planet",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2020-05-02T09:47:39.754Z"
+    },
+    {
+      "location_id": 126,
+      "name": "Rick's Memories",
+      "location_type": "Memory",
+      "dimension": "",
+      "creation_date": "2021-11-02T15:18:57.987Z"
+    },
+    {
+      "location_id": 70,
+      "name": "Snuffles' Dream",
+      "location_type": "Dream",
+      "dimension": "Dimension C-137",
+      "creation_date": "2018-04-15T17:13:54.071Z"
+    },
+    {
+      "location_id": 74,
+      "name": "Earth (Chair Dimension)",
+      "location_type": "Planet",
+      "dimension": "Chair Dimension",
+      "creation_date": "2018-04-16T21:58:24.292Z"
+    },
+    {
+      "location_id": 32,
+      "name": "Roy: A Life Well Lived",
+      "location_type": "Game",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2017-12-26T12:46:48.798Z"
+    },
+    {
+      "location_id": 77,
+      "name": "Earth (Fascist Dimension)",
+      "location_type": "Planet",
+      "dimension": "Fascist Dimension",
+      "creation_date": "2020-05-02T09:39:49.158Z"
+    },
+    {
+      "location_id": 80,
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "location_type": "Planet",
+      "dimension": "Fascist Shrimp Dimension",
+      "creation_date": "2020-05-02T11:52:35.156Z"
+    },
+    {
+      "location_id": 82,
+      "name": "Earth (Wasp Dimension)",
+      "location_type": "Planet",
+      "dimension": "Wasp Dimension",
+      "creation_date": "2020-05-02T12:34:19.656Z"
+    },
+    {
+      "location_id": 88,
+      "name": "Heist-Con",
+      "location_type": "Convention",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2020-05-07T09:07:41.816Z"
+    },
+    {
+      "location_id": 89,
+      "name": "Heistotron Base",
+      "location_type": "Space station",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2020-05-07T10:11:40.632Z"
+    },
+    {
+      "location_id": 94,
+      "name": "Draygon",
+      "location_type": "Planet",
+      "dimension": "Magic Dimension",
+      "creation_date": "2020-05-07T11:30:49.963Z"
+    },
+    {
+      "location_id": 97,
+      "name": "Non-Diegetic Alternative Reality",
+      "location_type": "Non-Diegetic Alternative Reality",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2020-08-06T09:50:13.771Z"
+    },
+    {
+      "location_id": 96,
+      "name": "Story Train",
+      "location_type": "Diegesis",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2020-08-06T09:47:28.216Z"
+    },
+    {
+      "location_id": 99,
+      "name": "Morty’s Story",
+      "location_type": "Diegesis",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2020-08-06T11:42:46.054Z"
+    },
+    {
+      "location_id": 101,
+      "name": "Glorzo Asteroid",
+      "location_type": "Asteroid",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2020-08-07T11:28:46.897Z"
+    },
+    {
+      "location_id": 104,
+      "name": "Near-Duplicate Reality",
+      "location_type": "Reality",
+      "dimension": "Unknown dimension",
+      "creation_date": "2020-08-13T11:15:54.414Z"
+    },
+    {
+      "location_id": 103,
+      "name": "Merged Universe",
+      "location_type": "Dimension",
+      "dimension": "Merged Dimension",
+      "creation_date": "2020-08-13T10:16:18.946Z"
+    },
+    {
+      "location_id": 110,
+      "name": "Narnia Dimension",
+      "location_type": "Dimension",
+      "dimension": "Fantasy Dimension",
+      "creation_date": "2021-10-16T11:59:26.649Z"
+    },
+    {
+      "location_id": 117,
+      "name": "Z. Q. P. D.",
+      "location_type": "Police Department",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2021-10-17T13:45:50.845Z"
+    },
+    {
+      "location_id": 118,
+      "name": "Space Tahoe",
+      "location_type": "",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2021-10-17T14:03:13.221Z"
+    },
+    {
+      "location_id": 125,
+      "name": "Rick and Two Crows Planet",
+      "location_type": "Planet",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2021-11-02T13:50:55.588Z"
+    },
+    {
+      "location_id": 124,
+      "name": "Slartivart",
+      "location_type": "Planet",
+      "dimension": "Replacement Dimension",
+      "creation_date": "2021-11-02T13:07:27.619Z"
+    },
+    {
+      "location_id": 30,
+      "name": "Earth (Unknown dimension)",
+      "location_type": "Planet",
+      "dimension": "unknown",
+      "creation_date": "2017-12-01T11:49:43.923Z"
+    }
+  ],
+  "associations": [
+    {
+      "character_id": 1,
+      "location_id": 3
+    },
+    {
+      "character_id": 2,
+      "location_id": 3
+    },
+    {
+      "character_id": 3,
+      "location_id": 20
+    },
+    {
+      "character_id": 5,
+      "location_id": 20
+    },
+    {
+      "character_id": 7,
+      "location_id": 21
+    },
+    {
+      "character_id": 11,
+      "location_id": 20
+    },
+    {
+      "character_id": 13,
+      "location_id": 20
+    },
+    {
+      "character_id": 17,
+      "location_id": 5
+    },
+    {
+      "character_id": 23,
+      "location_id": 7
+    },
+    {
+      "character_id": 29,
+      "location_id": 6
+    },
+    {
+      "character_id": 31,
+      "location_id": 20
+    },
+    {
+      "character_id": 37,
+      "location_id": 23
+    },
+    {
+      "character_id": 41,
+      "location_id": 48
+    },
+    {
+      "character_id": 43,
+      "location_id": 3
+    },
+    {
+      "character_id": 47,
+      "location_id": 35
+    },
+    {
+      "character_id": 53,
+      "location_id": 3
+    },
+    {
+      "character_id": 59,
+      "location_id": 20
+    },
+    {
+      "character_id": 61,
+      "location_id": 3
+    },
+    {
+      "character_id": 67,
+      "location_id": 25
+    },
+    {
+      "character_id": 71,
+      "location_id": 1
+    },
+    {
+      "character_id": 73,
+      "location_id": 3
+    },
+    {
+      "character_id": 79,
+      "location_id": 27
+    },
+    {
+      "character_id": 83,
+      "location_id": 1
+    },
+    {
+      "character_id": 89,
+      "location_id": 14
+    },
+    {
+      "character_id": 97,
+      "location_id": 5
+    },
+    {
+      "character_id": 101,
+      "location_id": 5
+    },
+    {
+      "character_id": 103,
+      "location_id": 20
+    },
+    {
+      "character_id": 107,
+      "location_id": 20
+    },
+    {
+      "character_id": 109,
+      "location_id": 20
+    },
+    {
+      "character_id": 113,
+      "location_id": 20
+    },
+    {
+      "character_id": 127,
+      "location_id": 1
+    },
+    {
+      "character_id": 131,
+      "location_id": 13
+    },
+    {
+      "character_id": 137,
+      "location_id": 20
+    },
+    {
+      "character_id": 139,
+      "location_id": 9
+    },
+    {
+      "character_id": 149,
+      "location_id": 20
+    },
+    {
+      "character_id": 151,
+      "location_id": 20
+    },
+    {
+      "character_id": 157,
+      "location_id": 6
+    },
+    {
+      "character_id": 163,
+      "location_id": 13
+    },
+    {
+      "character_id": 167,
+      "location_id": 20
+    },
+    {
+      "character_id": 173,
+      "location_id": 6
+    },
+    {
+      "character_id": 179,
+      "location_id": 1
+    },
+    {
+      "character_id": 181,
+      "location_id": 20
+    },
+    {
+      "character_id": 191,
+      "location_id": 46
+    },
+    {
+      "character_id": 193,
+      "location_id": 48
+    },
+    {
+      "character_id": 197,
+      "location_id": 50
+    },
+    {
+      "character_id": 199,
+      "location_id": 35
+    },
+    {
+      "character_id": 211,
+      "location_id": 40
+    },
+    {
+      "character_id": 223,
+      "location_id": 6
+    },
+    {
+      "character_id": 227,
+      "location_id": 20
+    },
+    {
+      "character_id": 229,
+      "location_id": 3
+    },
+    {
+      "character_id": 233,
+      "location_id": 20
+    },
+    {
+      "character_id": 239,
+      "location_id": 1
+    },
+    {
+      "character_id": 241,
+      "location_id": 20
+    },
+    {
+      "character_id": 251,
+      "location_id": 20
+    },
+    {
+      "character_id": 257,
+      "location_id": 44
+    },
+    {
+      "character_id": 263,
+      "location_id": 16
+    },
+    {
+      "character_id": 269,
+      "location_id": 56
+    },
+    {
+      "character_id": 271,
+      "location_id": 1
+    },
+    {
+      "character_id": 277,
+      "location_id": 6
+    },
+    {
+      "character_id": 281,
+      "location_id": 3
+    },
+    {
+      "character_id": 283,
+      "location_id": 3
+    },
+    {
+      "character_id": 293,
+      "location_id": 20
+    },
+    {
+      "character_id": 307,
+      "location_id": 47
+    },
+    {
+      "character_id": 311,
+      "location_id": 35
+    },
+    {
+      "character_id": 313,
+      "location_id": 78
+    },
+    {
+      "character_id": 317,
+      "location_id": 6
+    },
+    {
+      "character_id": 331,
+      "location_id": 35
+    },
+    {
+      "character_id": 337,
+      "location_id": 46
+    },
+    {
+      "character_id": 347,
+      "location_id": 20
+    },
+    {
+      "character_id": 353,
+      "location_id": 20
+    },
+    {
+      "character_id": 359,
+      "location_id": 3
+    },
+    {
+      "character_id": 367,
+      "location_id": 6
+    },
+    {
+      "character_id": 373,
+      "location_id": 6
+    },
+    {
+      "character_id": 379,
+      "location_id": 35
+    },
+    {
+      "character_id": 383,
+      "location_id": 16
+    },
+    {
+      "character_id": 389,
+      "location_id": 126
+    },
+    {
+      "character_id": 397,
+      "location_id": 70
+    },
+    {
+      "character_id": 401,
+      "location_id": 20
+    },
+    {
+      "character_id": 409,
+      "location_id": 6
+    },
+    {
+      "character_id": 419,
+      "location_id": 47
+    },
+    {
+      "character_id": 421,
+      "location_id": 47
+    },
+    {
+      "character_id": 431,
+      "location_id": 74
+    },
+    {
+      "character_id": 439,
+      "location_id": 20
+    },
+    {
+      "character_id": 443,
+      "location_id": 44
+    },
+    {
+      "character_id": 449,
+      "location_id": 32
+    },
+    {
+      "character_id": 457,
+      "location_id": 6
+    },
+    {
+      "character_id": 461,
+      "location_id": 3
+    },
+    {
+      "character_id": 463,
+      "location_id": 3
+    },
+    {
+      "character_id": 467,
+      "location_id": 20
+    },
+    {
+      "character_id": 479,
+      "location_id": 3
+    },
+    {
+      "character_id": 487,
+      "location_id": 3
+    },
+    {
+      "character_id": 491,
+      "location_id": 25
+    },
+    {
+      "character_id": 499,
+      "location_id": 77
+    },
+    {
+      "character_id": 503,
+      "location_id": 80
+    },
+    {
+      "character_id": 509,
+      "location_id": 20
+    },
+    {
+      "character_id": 521,
+      "location_id": 82
+    },
+    {
+      "character_id": 523,
+      "location_id": 20
+    },
+    {
+      "character_id": 541,
+      "location_id": 20
+    },
+    {
+      "character_id": 547,
+      "location_id": 88
+    },
+    {
+      "character_id": 557,
+      "location_id": 89
+    },
+    {
+      "character_id": 563,
+      "location_id": 94
+    },
+    {
+      "character_id": 569,
+      "location_id": 94
+    },
+    {
+      "character_id": 571,
+      "location_id": 78
+    },
+    {
+      "character_id": 577,
+      "location_id": 78
+    },
+    {
+      "character_id": 587,
+      "location_id": 78
+    },
+    {
+      "character_id": 593,
+      "location_id": 97
+    },
+    {
+      "character_id": 599,
+      "location_id": 96
+    },
+    {
+      "character_id": 601,
+      "location_id": 96
+    },
+    {
+      "character_id": 607,
+      "location_id": 96
+    },
+    {
+      "character_id": 613,
+      "location_id": 99
+    },
+    {
+      "character_id": 617,
+      "location_id": 96
+    },
+    {
+      "character_id": 619,
+      "location_id": 96
+    },
+    {
+      "character_id": 631,
+      "location_id": 96
+    },
+    {
+      "character_id": 641,
+      "location_id": 101
+    },
+    {
+      "character_id": 643,
+      "location_id": 101
+    },
+    {
+      "character_id": 647,
+      "location_id": 101
+    },
+    {
+      "character_id": 653,
+      "location_id": 104
+    },
+    {
+      "character_id": 659,
+      "location_id": 104
+    },
+    {
+      "character_id": 661,
+      "location_id": 103
+    },
+    {
+      "character_id": 673,
+      "location_id": 110
+    },
+    {
+      "character_id": 677,
+      "location_id": 110
+    },
+    {
+      "character_id": 683,
+      "location_id": 110
+    },
+    {
+      "character_id": 691,
+      "location_id": 20
+    },
+    {
+      "character_id": 701,
+      "location_id": 20
+    },
+    {
+      "character_id": 709,
+      "location_id": 6
+    },
+    {
+      "character_id": 719,
+      "location_id": 20
+    },
+    {
+      "character_id": 727,
+      "location_id": 20
+    },
+    {
+      "character_id": 733,
+      "location_id": 20
+    },
+    {
+      "character_id": 739,
+      "location_id": 20
+    },
+    {
+      "character_id": 743,
+      "location_id": 117
+    },
+    {
+      "character_id": 751,
+      "location_id": 118
+    },
+    {
+      "character_id": 757,
+      "location_id": 20
+    },
+    {
+      "character_id": 761,
+      "location_id": 20
+    },
+    {
+      "character_id": 769,
+      "location_id": 20
+    },
+    {
+      "character_id": 773,
+      "location_id": 20
+    },
+    {
+      "character_id": 787,
+      "location_id": 125
+    },
+    {
+      "character_id": 797,
+      "location_id": 124
+    },
+    {
+      "character_id": 809,
+      "location_id": 125
+    },
+    {
+      "character_id": 811,
+      "location_id": 3
+    },
+    {
+      "character_id": 821,
+      "location_id": 20
+    },
+    {
+      "character_id": 823,
+      "location_id": 30
+    }
+  ]
+}
