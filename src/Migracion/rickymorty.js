@@ -98,7 +98,6 @@ async function run() {
       location_id: urlToLocation[c.location.url].id
     }));
 
-  // Construir el resultado final
   const result = {
     contacts,
     companies,
@@ -111,6 +110,5 @@ async function run() {
   console.log(`Datos guardados en: ${filePath}`);
 }
 
-// Ejecutar
 run();
 

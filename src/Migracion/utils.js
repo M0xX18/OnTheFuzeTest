@@ -7,7 +7,7 @@ function isPrime(n) {
 }
 
 function getIdsUpTo(max) {
-  const ids = [1]; // Siempre incluir el 1
+  const ids = [1];
   for (let i = 2; i <= max; i++) {
     if (isPrime(i)) {
       ids.push(i);
